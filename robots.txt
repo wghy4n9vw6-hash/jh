@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wghy4n9vw6-hash.github.io/jh/sitemap.xml
